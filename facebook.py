@@ -8,7 +8,7 @@ from concurrent.futures import ThreadPoolExecutor as THREADING
 from telebot import types
 rua = random.choice([
 "Mozilla/5.0 (Linux; Android 10; SM-N960F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Mobile Safari/537.36 [FBAN/MessengerLite;FBAV/115.0.0.2.114;FBPN/com.facebook.mlite;FBLC/ar_EG;FBBV/257412622;FBCR/Orange - STAY SAFE;FBMF/Samsumg;FBBD/samsung;FBDV/Note9;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=720,height=1369"])
-tok = '6483417976:AAHoxG42ILtlxIjflQdgkQqvBRlXfIylhvo'# - token
+tok = '6880617647:AAHvLmMfpQFMrt63YDiWoy7-2xk1wG1UQ5I'# - token
 bot = telebot.TeleBot(tok)
 
 ugen2 = []
